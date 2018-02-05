@@ -1,1 +1,1 @@
-# stincy-1.0
+# stincy
